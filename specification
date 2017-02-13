@@ -1,0 +1,40 @@
+Scraping Task:
+
+1. Use these sources:  yelp.com, zomato.com, foursquare.com, facebook.com, google.com
+
+2. Scrape POIs in these cities/zip codes using a Scraping Script (not manually!)
+
+US
+NYC - 10065
+COLUMBUS - 43215
+PORTLAND, MAINE - 04101
+Canada
+MONTREAL - H2W
+TORONTO - M4Y
+
+3. Look for POIs (restaurants, etc) with these categories:
+Shopping
+Food & Restaurants (can be combined)
+Bars & Nightlife (can be combined)
+Outdoor and Recreation
+Travel and Transport
+Arts and Entertainment
+
+Enter the scraped data in this spreadsheet (make a copy and use a different tab for each source):
+
+https://docs.google.com/spreadsheets/d/1pWDW_B7g7fos_AfY2OtW2UPjiWh9Jblpl6HuDII-g7k/edit#gid=0
+
+4. Required fields are:
+ID/URL	
+Name	
+Phone	
+Address
+City	
+State	
+Country	
+Postal 
+Code	
+Latitude	
+Longitude	
+Category
+
